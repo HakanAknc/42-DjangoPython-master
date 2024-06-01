@@ -1,1 +1,1 @@
-# 42-DjangoPython
+# DjangoPython-Proje
